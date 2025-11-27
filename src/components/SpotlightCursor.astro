@@ -1,0 +1,64 @@
+---
+
+---
+
+<style>
+  .spotlight-container {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: -10;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .spotlight {
+    position: absolute;
+    width: 24rem;
+    height: 24rem;
+    border-radius: 9999px;
+    background: radial-gradient(circle, oklch(0.985 0 0 / 35%), transparent);
+    filter: blur(60px);
+    transform: translate(-50%, -50%);
+    transition: transform 0.1s ease;
+  }
+</style>
+
+<div id="spotlight-container" class="spotlight-container">
+  <div id="spotlight" class="spotlight"></div>
+</div>
+
+<script>
+  const container = document.getElementById("spotlight-container");
+  const spotlight = document.getElementById("spotlight");
+
+  let mouseX = 0;
+  let mouseY = 0;
+  let currentX = 0;
+  let currentY = 0;
+
+  const stiffness = 0.12;
+  const damping = 0.85;
+
+  window.addEventListener("mousemove", (e) => {
+    mouseX = e.clientX;
+    mouseY = e.clientY;
+    container && (container.style.opacity = "1");
+  });
+
+  window.addEventListener("mouseleave", () => {
+    container && (container.style.opacity = "0");
+  });
+
+  function animate() {
+    currentX += (mouseX - currentX) * stiffness;
+    currentY += (mouseY - currentY) * stiffness;
+
+    spotlight &&
+      (spotlight.style.transform = `translate(${currentX - 192}px, ${currentY - 192}px)`);
+
+    requestAnimationFrame(animate);
+  }
+
+  animate();
+</script>
