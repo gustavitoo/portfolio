@@ -10,7 +10,6 @@ interface SpotlightCardProps {
 export default function SpotlightCard({
   children,
   className = "",
-  spotlightColor = "rgba(255, 255, 255, 0.25)"
 }: SpotlightCardProps) {
   const mouseX = useMotionValue(0)
   const mouseY = useMotionValue(0)
