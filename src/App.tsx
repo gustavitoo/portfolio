@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import SpotlightCursor from "./components/SpotlightCursor";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
+import GitHubBackground from "./components/GitHubBackground";
 
 export default function App() {
   const darkMode = localStorage.getItem("darkMode");
@@ -23,8 +24,9 @@ export default function App() {
         <div className="blob blob-2" />
         <div className="blob blob-3" />
       </div>
+      <GitHubBackground />
 
-      <div className="relative z-10 w-full antialiased bg-background text-foreground transition-colors duration-300">
+      <div className="relative z-10 w-full antialiased text-foreground transition-colors duration-300">
         <Navbar />
         <SpotlightCursor />
         <main className="min-h-screen bg-linear-to-br from-background/50 to-background">
