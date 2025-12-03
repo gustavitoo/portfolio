@@ -16,9 +16,6 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install deps
-        run: npm install node-fetch@2
-
       - name: Generate commits
         run: node fetch_commits.js
 
