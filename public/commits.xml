@@ -4,11 +4,119 @@
   <link type="text/html" rel="alternate" href="https://github.com/gustavitoo"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/gustavitoo.atom"/>
   <title>GitHub Public Timeline Feed</title>
-  <updated>2025-12-01T18:46:50-03:00</updated>
+  <updated>2025-12-03T14:13:39Z</updated>
+  <entry>
+    <id>tag:github.com,2008:push/6438721487</id>
+    <published>2025-12-03 14:13:39 UTC</published>
+    <updated>2025-12-03 14:13:39 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/79d6035291...58140bbc75"/>
+    <title type="html">gustavitoo pushed portfolio</title>
+    <author>
+      <name>gustavitoo</name>
+      <uri>https://github.com/gustavitoo</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76077881?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/76077881?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gustavitoo&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/portfolio/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-12-03T14:13:39Z&quot; data-view-component=&quot;true&quot;&gt;December 3, 2025 14:13&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/portfolio/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits &quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/d350fa6a1a79263596c865f69a2acec6a26e84ae797b99347db9600cb31ab2fb/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f34336563336535646565366537303661663737363666666665613531323732313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://2.gravatar.com/avatar/43ec3e5dee6e706af7766fffea512721?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gustavitoo/portfolio/commit/58140bbc758af90c6a9c37a2ea400242c383a7c2&quot; rel=&quot;noreferrer&quot;&gt;58140bb&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      feat: Add GitHub Actions workflow to automate commit generation and u…
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:push/6420294648</id>
+    <published>2025-12-02 23:06:53 UTC</published>
+    <updated>2025-12-02 23:06:53 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/5380d334d5...79d6035291"/>
+    <title type="html">gustavitoo pushed portfolio</title>
+    <author>
+      <name>gustavitoo</name>
+      <uri>https://github.com/gustavitoo</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76077881?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div class=&quot;color-fg-muted&quot;&gt;
+      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/76077881?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gustavitoo&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo&lt;/a&gt;
+      
+      pushed to
+        &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/portfolio/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+        in
+      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
+      &lt;span&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-12-02T23:06:53Z&quot; data-view-component=&quot;true&quot;&gt;December 2, 2025 23:06&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/portfolio/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
+
+          &lt;div class=&quot;commits &quot;&gt;
+            &lt;ul class=&quot;list-style-none&quot;&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span&gt;
+                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/d350fa6a1a79263596c865f69a2acec6a26e84ae797b99347db9600cb31ab2fb/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f34336563336535646565366537303661663737363666666665613531323732313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://2.gravatar.com/avatar/43ec3e5dee6e706af7766fffea512721?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gustavitoo/portfolio/commit/79d6035291abbb5774569033d92c755e7f84b1c0&quot; rel=&quot;noreferrer&quot;&gt;79d6035&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      feat: Introduce GitHub commits display with automated fetching, add t…
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:push/6387176370</id>
-    <published>2025-12-01 18:46:50 -0300</published>
-    <updated>2025-12-01 18:46:50 -0300</updated>
+    <published>2025-12-01 21:46:50 UTC</published>
+    <updated>2025-12-01 21:46:50 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/bc4b9a82a2...7188b80e19"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -29,7 +137,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-12-01T18:46:50-03:00&quot; data-view-component=&quot;true&quot;&gt;December 1, 2025 18:46&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-12-01T21:46:50Z&quot; data-view-component=&quot;true&quot;&gt;December 1, 2025 21:46&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -61,8 +169,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6387173947</id>
-    <published>2025-12-01 18:46:43 -0300</published>
-    <updated>2025-12-01 18:46:43 -0300</updated>
+    <published>2025-12-01 21:46:43 UTC</published>
+    <updated>2025-12-01 21:46:43 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-frontend/compare/a8501d49b4...d242a6e764"/>
     <title type="html">gustavitoo pushed habitsApp-frontend</title>
     <author>
@@ -83,7 +191,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-frontend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-frontend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-12-01T18:46:43-03:00&quot; data-view-component=&quot;true&quot;&gt;December 1, 2025 18:46&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-12-01T21:46:43Z&quot; data-view-component=&quot;true&quot;&gt;December 1, 2025 21:46&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -115,8 +223,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6305305316</id>
-    <published>2025-11-27 20:49:18 -0300</published>
-    <updated>2025-11-27 20:49:18 -0300</updated>
+    <published>2025-11-27 23:49:18 UTC</published>
+    <updated>2025-11-27 23:49:18 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/6e80a732a9...5380d334d5"/>
     <title type="html">gustavitoo pushed portfolio</title>
     <author>
@@ -137,7 +245,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T20:49:18-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 20:49&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T23:49:18Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 23:49&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -169,8 +277,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6305271975</id>
-    <published>2025-11-27 20:45:58 -0300</published>
-    <updated>2025-11-27 20:45:58 -0300</updated>
+    <published>2025-11-27 23:45:58 UTC</published>
+    <updated>2025-11-27 23:45:58 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/4ae8e78af9...6e80a732a9"/>
     <title type="html">gustavitoo pushed portfolio</title>
     <author>
@@ -191,7 +299,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T20:45:58-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 20:45&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T23:45:58Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 23:45&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -223,8 +331,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6305180800</id>
-    <published>2025-11-27 20:37:11 -0300</published>
-    <updated>2025-11-27 20:37:11 -0300</updated>
+    <published>2025-11-27 23:37:11 UTC</published>
+    <updated>2025-11-27 23:37:11 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/f985a2d487...4ae8e78af9"/>
     <title type="html">gustavitoo pushed portfolio</title>
     <author>
@@ -245,7 +353,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T20:37:11-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 20:37&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T23:37:11Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 23:37&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -277,8 +385,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6303313588</id>
-    <published>2025-11-27 18:15:58 -0300</published>
-    <updated>2025-11-27 18:15:58 -0300</updated>
+    <published>2025-11-27 21:15:58 UTC</published>
+    <updated>2025-11-27 21:15:58 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/d0f3d9e2cf...f985a2d487"/>
     <title type="html">gustavitoo pushed portfolio</title>
     <author>
@@ -299,7 +407,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T18:15:58-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 18:15&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T21:15:58Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 21:15&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -331,8 +439,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6303198729</id>
-    <published>2025-11-27 18:08:16 -0300</published>
-    <updated>2025-11-27 18:08:16 -0300</updated>
+    <published>2025-11-27 21:08:16 UTC</published>
+    <updated>2025-11-27 21:08:16 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/009fb48a39...d0f3d9e2cf"/>
     <title type="html">gustavitoo pushed portfolio</title>
     <author>
@@ -353,7 +461,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T18:08:16-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 18:08&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T21:08:16Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 21:08&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -385,8 +493,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6296764548</id>
-    <published>2025-11-27 12:29:35 -0300</published>
-    <updated>2025-11-27 12:29:35 -0300</updated>
+    <published>2025-11-27 15:29:35 UTC</published>
+    <updated>2025-11-27 15:29:35 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/3fc6a3a0db...009fb48a39"/>
     <title type="html">gustavitoo pushed portfolio</title>
     <author>
@@ -407,7 +515,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T12:29:35-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 12:29&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T15:29:35Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 15:29&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -439,8 +547,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6296654000</id>
-    <published>2025-11-27 12:25:22 -0300</published>
-    <updated>2025-11-27 12:25:22 -0300</updated>
+    <published>2025-11-27 15:25:22 UTC</published>
+    <updated>2025-11-27 15:25:22 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/portfolio/compare/0000000000...3fc6a3a0db"/>
     <title type="html">gustavitoo created a branch</title>
     <author>
@@ -463,7 +571,7 @@
               &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/portfolio&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/portfolio&lt;/a&gt;
 
             &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T12:25:22-03:00&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 12:25&lt;/relative-time&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-27T15:25:22Z&quot; data-view-component=&quot;true&quot;&gt;November 27, 2025 15:25&lt;/relative-time&gt;
             &lt;/span&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -495,8 +603,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6207808793</id>
-    <published>2025-11-24 14:51:25 -0300</published>
-    <updated>2025-11-24 14:51:25 -0300</updated>
+    <published>2025-11-24 17:51:25 UTC</published>
+    <updated>2025-11-24 17:51:25 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-frontend/compare/399eecccf8...a8501d49b4"/>
     <title type="html">gustavitoo pushed habitsApp-frontend</title>
     <author>
@@ -517,7 +625,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-frontend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-frontend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-24T14:51:25-03:00&quot; data-view-component=&quot;true&quot;&gt;November 24, 2025 14:51&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-24T17:51:25Z&quot; data-view-component=&quot;true&quot;&gt;November 24, 2025 17:51&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -549,8 +657,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6181763556</id>
-    <published>2025-11-23 16:05:01 -0300</published>
-    <updated>2025-11-23 16:05:01 -0300</updated>
+    <published>2025-11-23 19:05:01 UTC</published>
+    <updated>2025-11-23 19:05:01 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-frontend/compare/0b0a14498e...399eecccf8"/>
     <title type="html">gustavitoo pushed habitsApp-frontend</title>
     <author>
@@ -571,7 +679,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-frontend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-frontend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-23T16:05:01-03:00&quot; data-view-component=&quot;true&quot;&gt;November 23, 2025 16:05&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-23T19:05:01Z&quot; data-view-component=&quot;true&quot;&gt;November 23, 2025 19:05&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -603,8 +711,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6181760690</id>
-    <published>2025-11-23 16:04:46 -0300</published>
-    <updated>2025-11-23 16:04:46 -0300</updated>
+    <published>2025-11-23 19:04:46 UTC</published>
+    <updated>2025-11-23 19:04:46 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/7103090f0a...bc4b9a82a2"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -625,7 +733,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-23T16:04:46-03:00&quot; data-view-component=&quot;true&quot;&gt;November 23, 2025 16:04&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-23T19:04:46Z&quot; data-view-component=&quot;true&quot;&gt;November 23, 2025 19:04&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -657,8 +765,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/6180894542</id>
-    <published>2025-11-23 14:53:09 -0300</published>
-    <updated>2025-11-23 14:53:09 -0300</updated>
+    <published>2025-11-23 17:53:09 UTC</published>
+    <updated>2025-11-23 17:53:09 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/7c85b0a518...7103090f0a"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -679,7 +787,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-23T14:53:09-03:00&quot; data-view-component=&quot;true&quot;&gt;November 23, 2025 14:53&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-23T17:53:09Z&quot; data-view-component=&quot;true&quot;&gt;November 23, 2025 17:53&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -711,8 +819,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5803295408</id>
-    <published>2025-11-08 13:01:37 -0300</published>
-    <updated>2025-11-08 13:01:37 -0300</updated>
+    <published>2025-11-08 16:01:37 UTC</published>
+    <updated>2025-11-08 16:01:37 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-frontend/compare/7f9b2610c0...0b0a14498e"/>
     <title type="html">gustavitoo pushed habitsApp-frontend</title>
     <author>
@@ -733,7 +841,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-frontend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-frontend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T13:01:37-03:00&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 13:01&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T16:01:37Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 16:01&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -765,8 +873,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5803293919</id>
-    <published>2025-11-08 13:01:30 -0300</published>
-    <updated>2025-11-08 13:01:30 -0300</updated>
+    <published>2025-11-08 16:01:30 UTC</published>
+    <updated>2025-11-08 16:01:30 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/0b96cb1b88...7c85b0a518"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -787,7 +895,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T13:01:30-03:00&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 13:01&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T16:01:30Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 16:01&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -819,8 +927,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5803259670</id>
-    <published>2025-11-08 12:58:51 -0300</published>
-    <updated>2025-11-08 12:58:51 -0300</updated>
+    <published>2025-11-08 15:58:51 UTC</published>
+    <updated>2025-11-08 15:58:51 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-frontend/compare/283832db83...7f9b2610c0"/>
     <title type="html">gustavitoo pushed habitsApp-frontend</title>
     <author>
@@ -841,7 +949,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-frontend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-frontend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T12:58:51-03:00&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 12:58&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T15:58:51Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 15:58&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -873,8 +981,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5803049872</id>
-    <published>2025-11-08 12:38:45 -0300</published>
-    <updated>2025-11-08 12:38:45 -0300</updated>
+    <published>2025-11-08 15:38:45 UTC</published>
+    <updated>2025-11-08 15:38:45 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-frontend/compare/0000000000...283832db83"/>
     <title type="html">gustavitoo created a branch</title>
     <author>
@@ -897,7 +1005,7 @@
               &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-frontend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-frontend&lt;/a&gt;
 
             &lt;span&gt;
-              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T12:38:45-03:00&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 12:38&lt;/relative-time&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T15:38:45Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 15:38&lt;/relative-time&gt;
             &lt;/span&gt;
           &lt;/div&gt;
         &lt;/div&gt;
@@ -929,8 +1037,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5794463140</id>
-    <published>2025-11-07 21:35:09 -0300</published>
-    <updated>2025-11-07 21:35:09 -0300</updated>
+    <published>2025-11-08 00:35:09 UTC</published>
+    <updated>2025-11-08 00:35:09 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/4e61120427...0b96cb1b88"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -951,7 +1059,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:35:09-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:35&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T00:35:09Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 00:35&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -983,8 +1091,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5794387286</id>
-    <published>2025-11-07 21:27:52 -0300</published>
-    <updated>2025-11-07 21:27:52 -0300</updated>
+    <published>2025-11-08 00:27:52 UTC</published>
+    <updated>2025-11-08 00:27:52 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/6355030f7c...4e61120427"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1005,7 +1113,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:27:52-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:27&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T00:27:52Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 00:27&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1048,8 +1156,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5794243366</id>
-    <published>2025-11-07 21:13:51 -0300</published>
-    <updated>2025-11-07 21:13:51 -0300</updated>
+    <published>2025-11-08 00:13:51 UTC</published>
+    <updated>2025-11-08 00:13:51 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/fea1573fc6...6355030f7c"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1070,7 +1178,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:13:51-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:13&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T00:13:51Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 00:13&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1102,8 +1210,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5794091656</id>
-    <published>2025-11-07 21:01:06 -0300</published>
-    <updated>2025-11-07 21:01:06 -0300</updated>
+    <published>2025-11-08 00:01:06 UTC</published>
+    <updated>2025-11-08 00:01:06 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/ee85ca8701...fea1573fc6"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1124,7 +1232,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:01:06-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:01&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-08T00:01:06Z&quot; data-view-component=&quot;true&quot;&gt;November 8, 2025 00:01&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1156,8 +1264,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5793997659</id>
-    <published>2025-11-07 20:52:33 -0300</published>
-    <updated>2025-11-07 20:52:33 -0300</updated>
+    <published>2025-11-07 23:52:33 UTC</published>
+    <updated>2025-11-07 23:52:33 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/294529bc2a...ee85ca8701"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1178,7 +1286,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T20:52:33-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 20:52&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T23:52:33Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 23:52&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1210,8 +1318,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5793930854</id>
-    <published>2025-11-07 20:46:19 -0300</published>
-    <updated>2025-11-07 20:46:19 -0300</updated>
+    <published>2025-11-07 23:46:19 UTC</published>
+    <updated>2025-11-07 23:46:19 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/d4187fdc5a...294529bc2a"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1232,7 +1340,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T20:46:19-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 20:46&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T23:46:19Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 23:46&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1275,8 +1383,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5792654501</id>
-    <published>2025-11-07 19:10:18 -0300</published>
-    <updated>2025-11-07 19:10:18 -0300</updated>
+    <published>2025-11-07 22:10:18 UTC</published>
+    <updated>2025-11-07 22:10:18 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/ca2bbedae4...d4187fdc5a"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1297,7 +1405,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T19:10:18-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 19:10&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T22:10:18Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 22:10&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1329,8 +1437,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5792208564</id>
-    <published>2025-11-07 18:42:42 -0300</published>
-    <updated>2025-11-07 18:42:42 -0300</updated>
+    <published>2025-11-07 21:42:42 UTC</published>
+    <updated>2025-11-07 21:42:42 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/355aa3e424...ca2bbedae4"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1351,7 +1459,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T18:42:42-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 18:42&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:42:42Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:42&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1383,8 +1491,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5792171951</id>
-    <published>2025-11-07 18:40:19 -0300</published>
-    <updated>2025-11-07 18:40:19 -0300</updated>
+    <published>2025-11-07 21:40:19 UTC</published>
+    <updated>2025-11-07 21:40:19 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/c9c4ed6e6b...355aa3e424"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1405,7 +1513,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T18:40:19-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 18:40&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:40:19Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:40&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1437,8 +1545,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5791715475</id>
-    <published>2025-11-07 18:13:19 -0300</published>
-    <updated>2025-11-07 18:13:19 -0300</updated>
+    <published>2025-11-07 21:13:19 UTC</published>
+    <updated>2025-11-07 21:13:19 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/3687525fc3...c9c4ed6e6b"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1459,7 +1567,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T18:13:19-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 18:13&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T21:13:19Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 21:13&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1505,8 +1613,8 @@
   </entry>
   <entry>
     <id>tag:github.com,2008:push/5791291154</id>
-    <published>2025-11-07 17:48:58 -0300</published>
-    <updated>2025-11-07 17:48:58 -0300</updated>
+    <published>2025-11-07 20:48:58 UTC</published>
+    <updated>2025-11-07 20:48:58 UTC</updated>
     <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/eefc53f73e...3687525fc3"/>
     <title type="html">gustavitoo pushed habitsApp-backend</title>
     <author>
@@ -1527,7 +1635,7 @@
         in
       &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
       &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T17:48:58-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 17:48&lt;/relative-time&gt;
+        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T20:48:58Z&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 20:48&lt;/relative-time&gt;
       &lt;/span&gt;
 
         &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
@@ -1563,114 +1671,6 @@
                 &lt;li class=&quot;f6 mt-2&quot;&gt;
                   &lt;a class=&quot;Link--secondary&quot; href=&quot;https://github.com/gustavitoo/habitsApp-backend/compare/eefc53f73e...3687525fc3&quot; rel=&quot;noreferrer&quot;&gt;1 more commit »&lt;/a&gt;
                 &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/5791199350</id>
-    <published>2025-11-07 17:43:32 -0300</published>
-    <updated>2025-11-07 17:43:32 -0300</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/c4ce04b7f7...eefc53f73e"/>
-    <title type="html">gustavitoo pushed habitsApp-backend</title>
-    <author>
-      <name>gustavitoo</name>
-      <uri>https://github.com/gustavitoo</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76077881?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/76077881?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gustavitoo&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/habitsApp-backend/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T17:43:32-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 17:43&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;1 commit to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/habitsApp-backend/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits &quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/d350fa6a1a79263596c865f69a2acec6a26e84ae797b99347db9600cb31ab2fb/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f34336563336535646565366537303661663737363666666665613531323732313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://2.gravatar.com/avatar/43ec3e5dee6e706af7766fffea512721?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gustavitoo/habitsApp-backend/commit/eefc53f73e83719142ddb291daced7282711eeeb&quot; rel=&quot;noreferrer&quot;&gt;eefc53f&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      feat: Implement auth and user services with corresponding controllers…
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
-            &lt;/ul&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:github.com,2008:push/5791078208</id>
-    <published>2025-11-07 17:36:34 -0300</published>
-    <updated>2025-11-07 17:36:34 -0300</updated>
-    <link type="text/html" rel="alternate" href="https://github.com/gustavitoo/habitsApp-backend/compare/09ede4306a...c4ce04b7f7"/>
-    <title type="html">gustavitoo pushed habitsApp-backend</title>
-    <author>
-      <name>gustavitoo</name>
-      <uri>https://github.com/gustavitoo</uri>
-    </author>
-    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76077881?s=30&amp;v=4"/>
-    <content type="html">&lt;div class=&quot;repo-push js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
-&lt;!-- push --&gt;
-&lt;div class=&quot;d-flex flex-items-baseline py-4&quot;&gt;
-  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
-    &lt;div class=&quot;color-fg-muted&quot;&gt;
-      &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/76077881?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gustavitoo&quot;&gt;&lt;/a&gt;&lt;/span&gt;
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo&lt;/a&gt;
-      
-      pushed to
-        &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/habitsApp-backend/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-        in
-      &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo/habitsApp-backend&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo/habitsApp-backend&lt;/a&gt;
-      &lt;span&gt;
-        · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2025-11-07T17:36:34-03:00&quot; data-view-component=&quot;true&quot;&gt;November 7, 2025 17:36&lt;/relative-time&gt;
-      &lt;/span&gt;
-
-        &lt;div class=&quot;Box p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
-          &lt;span&gt;1 commit to&lt;/span&gt;
-          &lt;a class=&quot;branch-name&quot; href=&quot;/gustavitoo/habitsApp-backend/tree/main&quot; rel=&quot;noreferrer&quot;&gt;main&lt;/a&gt;
-
-          &lt;div class=&quot;commits &quot;&gt;
-            &lt;ul class=&quot;list-style-none&quot;&gt;
-                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
-                  &lt;span&gt;
-                    &lt;img class=&quot;mr-1 avatar-user&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; src=&quot;https://camo.githubusercontent.com/d350fa6a1a79263596c865f69a2acec6a26e84ae797b99347db9600cb31ab2fb/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f34336563336535646565366537303661663737363666666665613531323732313f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d313430&quot; data-canonical-src=&quot;https://2.gravatar.com/avatar/43ec3e5dee6e706af7766fffea512721?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;amp;r=g&amp;amp;s=140&quot;&gt;
-                  &lt;/span&gt;
-                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/gustavitoo/habitsApp-backend/commit/c4ce04b7f7d8e57890d6ce5d31ad6716479660f9&quot; rel=&quot;noreferrer&quot;&gt;c4ce04b&lt;/a&gt;&lt;/code&gt;
-                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
-                    &lt;blockquote&gt;
-                      refactor: remove old app structure and create new microservices
-                    &lt;/blockquote&gt;
-                  &lt;/div&gt;
-                &lt;/li&gt;
-
-
             &lt;/ul&gt;
           &lt;/div&gt;
         &lt;/div&gt;

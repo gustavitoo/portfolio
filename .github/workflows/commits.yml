@@ -17,7 +17,7 @@ jobs:
           node-version: 18
 
       - name: Generate commits
-        run: node fetch_commits.js
+        run: node ./scripts/fetch_commits.js
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5

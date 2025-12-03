@@ -9,7 +9,7 @@ async function main() {
   const res = await fetch(FEED_URL);
   const xml = await res.text();
 
-  await fs.writeFile("../public/commits.xml", xml, "utf8");
+  await fs.writeFile("public/commits.xml", xml, "utf8");
 
   console.log("XML guardado");
 }
