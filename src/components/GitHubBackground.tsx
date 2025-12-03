@@ -1,5 +1,5 @@
 import GitHubCommitCard from "./GitHubCommitCard";
-import { useGitHubCommits } from "../hooks/useGithubCommits";
+import { useGitHubCommits } from "../hooks/useGitHubCommits";
 
 export default function GitHubBackground() {
   const { commits } = useGitHubCommits();
