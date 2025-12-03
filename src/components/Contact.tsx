@@ -1,9 +1,11 @@
 import { motion } from "framer-motion"
+import { Github, Mail, Linkedin } from "lucide-react"
+
 
 const contacts = [
-  { label: "Email", value: "gusthideon.web@gmail.com", icon: "✉️", href: "mailto:john@example.com" },
-  { label: "LinkedIn", value: "@erick", icon: "💼", href: "#" },
-  { label: "GitHub", value: "@gustavitoo", icon: "🐙", href: "#" },
+  { label: "Email", value: "gusthideon.web@gmail.com", icon: <Mail />, href: "mailto:john@example.com" },
+  { label: "LinkedIn", value: "@erick", icon: <Linkedin />, href: "#" },
+  { label: "GitHub", value: "@gustavitoo", icon: <Github />, href: "#" },
 ]
 
 export default function Contact() {

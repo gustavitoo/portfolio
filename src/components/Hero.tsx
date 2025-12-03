@@ -50,7 +50,7 @@ export default function Hero() {
             <button className="cursor-pointer px-8 py-3 bg-primary text-primary-foreground rounded-full font-medium hover:shadow-lg transition-all duration-300 hover:scale-105">
               Ver mi trabajo
             </button>
-            <a href="assets/cv_download.pdf" download="CV.pdf" className="cursor-pointer">
+            <a href="cv_download.pdf" download="CV.pdf" className="cursor-pointer">
               <button className="cursor-pointer px-8 py-3 border border-border rounded-full font-medium hover:border-foreground transition-all duration-300 hover:scale-105">
                 Descargar CV
               </button>
