@@ -4,7 +4,63 @@
   <link type="text/html" rel="alternate" href="https://github.com/gustavitoo"/>
   <link type="application/atom+xml" rel="self" href="https://github.com/gustavitoo.atom"/>
   <title>GitHub Public Timeline Feed</title>
-  <updated>2026-03-07T03:22:07Z</updated>
+  <updated>2026-03-25T23:10:02Z</updated>
+  <entry>
+    <id>tag:github.com,2008:push/9822398879</id>
+    <published>2026-03-25 23:10:02 UTC</published>
+    <updated>2026-03-25 23:10:02 UTC</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/tablio-restaurant-platform/tablio-showcase/compare/0000000000...8f4774901a"/>
+    <title type="html">gustavitoo created a branch</title>
+    <author>
+      <name>gustavitoo</name>
+      <uri>https://github.com/gustavitoo</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/76077881?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;git-branch js-feed-item-view&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline tmp-py-4&quot;&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div class=&quot;color-fg-muted&quot;&gt;
+                &lt;span class=&quot;mr-2&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars.githubusercontent.com/u/76077881?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@gustavitoo&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/gustavitoo&quot; rel=&quot;noreferrer&quot;&gt;gustavitoo&lt;/a&gt;
+              
+              created a
+              branch
+              in
+              &lt;a class=&quot;Link--primary no-underline wb-break-all&quot; href=&quot;/tablio-restaurant-platform/tablio-showcase&quot; rel=&quot;noreferrer&quot;&gt;tablio-restaurant-platform/tablio-showcase&lt;/a&gt;
+
+            &lt;span&gt;
+              · &lt;relative-time tense=&quot;past&quot; datetime=&quot;2026-03-25T23:10:02Z&quot; data-view-component=&quot;true&quot;&gt;March 25, 2026 23:10&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box tmp-p-3 mt-2 color-shadow-medium color-bg-overlay&quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold color-fg-default&quot;&gt;
+          &lt;div class=&quot;d-inline-block&quot;&gt;
+            &lt;div class=&quot;d-flex&quot;&gt;
+              &lt;div class=&quot;mr-2&quot;&gt;
+                &lt;a class=&quot;d-flex&quot; data-hovercard-type=&quot;organization&quot; data-hovercard-url=&quot;/orgs/tablio-restaurant-platform/hovercard&quot; data-octo-click=&quot;hovercard-link-click&quot; data-octo-dimensions=&quot;link_type:self&quot; href=&quot;/tablio-restaurant-platform&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://avatars.githubusercontent.com/u/271092568?s=40&amp;amp;v=4&quot; alt=&quot;@tablio-restaurant-platform&quot; size=&quot;20&quot; height=&quot;20&quot; width=&quot;20&quot; data-view-component=&quot;true&quot; class=&quot;avatar avatar-small&quot;&gt;&lt;/a&gt;
+              &lt;/div&gt;
+                  &lt;div class=&quot;d-inline-block&quot;&gt;
+                    &lt;a class=&quot;css-truncate css-truncate-target branch-name v-align-middle&quot; title=&quot;refs/heads/main&quot; href=&quot;https://github.com/tablio-restaurant-platform/tablio-showcase/tree/refs/heads/main&quot; rel=&quot;noreferrer&quot;&gt;refs/heads/main&lt;/a&gt; in &lt;a class=&quot;Link--primary text-bold no-underline wb-break-all d-inline-block&quot; href=&quot;/tablio-restaurant-platform/tablio-showcase&quot; rel=&quot;noreferrer&quot;&gt;tablio-restaurant-platform/tablio-showcase&lt;/a&gt;
+                  &lt;/div&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+
+          &lt;p class=&quot;f6 color-fg-muted mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Mar 25&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
   <entry>
     <id>tag:github.com,2008:push/9131051909</id>
     <published>2026-03-07 03:22:07 UTC</published>
